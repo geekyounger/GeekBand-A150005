@@ -13,11 +13,11 @@
   2.xxx  
   3.xxx 
 
-由于时间关系，这里简述一下GitHub使用：  
-1.第一次使用GitHub，首先要到www.github.com注册一下账号。  
-2.下载安装<a href="https://windows.github.com/">GitHub客户端</a>。  
-3.安装完成之后，打开桌面上的GitHub图标，利用图形界面配置自己刚刚注册的Git帐号和密码。  
-4.然后从远程库克隆到本地。
+由于时间关系，这里简述一下GitHub使用：
+* 第一次使用GitHub，首先要到www.github.com注册一下账号。
+* 下载安装<a href="https://windows.github.com/">GitHub客户端</a>。
+* 安装完成之后，打开桌面上的GitHub图标，利用图形界面配置自己刚刚注册的Git帐号和密码。
+* 然后从远程库克隆到本地。
 关于GitHub使用教程可参考以下链接：  
 <a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000</a>
 <a href="https://help.github.com/articles/set-up-git/">https://help.github.com/articles/set-up-git/</a>
