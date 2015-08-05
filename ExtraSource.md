@@ -10,7 +10,7 @@
 * https://github.com/cesards/AndroidElementals
 
 **案例**
-* <a href="http://www.saikr.com/">赛氪</a>
+* 以<a href="http://www.saikr.com/">赛氪</a>APP为原型做参考。
 * <a href="http://gavin6liu.lofter.com/post/15c310_8aad5d">仿微博客户端</a>
 * <a href="http://blog.csdn.net/android_ls/article/category/1373949">仿人人网</a>
 * <a href="http://www.cnblogs.com/carlos-vic/p/Carlos_V_Android_15.html#3060026">仿QQ</a>
