@@ -96,3 +96,4 @@ public View getView(int position, View convertView, ViewGroup parent)
 
 所以，作为一个工具类，它是完全合格的，赶紧把它拷贝到你的tools、util里面，然后我们就可以开心加愉悦的优雅用起ViewHolder了。。
 
+资料来源http://mobile.51cto.com/aprogram-475335.htm
